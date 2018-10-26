@@ -2,7 +2,7 @@
 Argon - A beautiful Design System for Bootstrap 4.
 It's Free and Open Source.
 
-###Requirements:
+## Requirements:
 - Sketch 52+
 - Anima Toolkit (optional)
 
